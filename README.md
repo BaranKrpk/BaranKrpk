@@ -5,6 +5,6 @@ Als kind hield ik al van gamen, maar naarmate ik ouder werd, groeide die passie 
 Verder ga ik graag naar de sportschool en luister ik naar muziek, voornamelijk oldschool hiphop. 
 Momenteel werk ik online als content creator.
 
-**Technologies & Tools**
-/n
+**Technologies & Tools**\
+
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=yellow&style=flat" />
