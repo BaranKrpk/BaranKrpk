@@ -8,5 +8,5 @@ Momenteel werk ik online als content creator.
 **Technologies & Tools**
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=flat" />
