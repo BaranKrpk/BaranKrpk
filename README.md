@@ -6,4 +6,4 @@ Verder ga ik graag naar de sportschool en luister ik naar muziek, voornamelijk o
 Momenteel werk ik online als content creator.
 
 **Technologies & Tools**
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=yellow&style=flat" />
